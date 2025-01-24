@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Wk 1\\Custom Message\\Custom Message.csproj",
+      "projectUniqueName": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\Wk01\\Custom Message\\Custom Message.csproj",
       "projectName": "Custom Message",
-      "projectPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Wk 1\\Custom Message\\Custom Message.csproj",
+      "projectPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\Wk01\\Custom Message\\Custom Message.csproj",
       "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Wk 1\\Custom Message\\obj\\",
+      "outputPath": "C:\\Users\\gamer\\Desktop\\UNI YR 3\\T2\\2 Wed PM Int Scripting\\Code\\Wk01\\Custom Message\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"

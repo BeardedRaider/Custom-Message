@@ -6,7 +6,7 @@ namespace HelloWorld // This is a namespace that contains the Program class. Nam
     {
         static void Main(string[] args) // This is the entry point of the program. The Main method is the first method that gets called when the program is run.
         {
-            Console.WriteLine("Hello My Name Is Shane Cummings!"); // This is a method that writes the string "Hello World!" to the console.
+            Console.WriteLine("Hello My Name is Shane Cummings!"); // This is a method that writes the string "Hello World!" to the console.
             Console.WriteLine("My Banner ID is B01740631.");
 
             // string Firstname = "Shane"; // This is a variable declaration. It declares a variable named "Firstname" of type string and assigns it the value "Shane".

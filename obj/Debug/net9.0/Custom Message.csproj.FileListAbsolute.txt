@@ -12,3 +12,18 @@ C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\Custom Message\ob
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\Custom Message\obj\Debug\net9.0\Custom Message.pdb
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\Custom Message\obj\Debug\net9.0\Custom Message.genruntimeconfig.cache
 C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Wk 1\Custom Message\obj\Debug\net9.0\ref\Custom Message.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\bin\Debug\net9.0\Custom Message.exe
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\bin\Debug\net9.0\Custom Message.deps.json
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\bin\Debug\net9.0\Custom Message.runtimeconfig.json
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\bin\Debug\net9.0\Custom Message.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\bin\Debug\net9.0\Custom Message.pdb
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.AssemblyInfoInputs.cache
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.AssemblyInfo.cs
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.sourcelink.json
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\refint\Custom Message.dll
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.pdb
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\Custom Message.genruntimeconfig.cache
+C:\Users\gamer\Desktop\UNI YR 3\T2\2 Wed PM Int Scripting\Code\Wk01\Custom Message\obj\Debug\net9.0\ref\Custom Message.dll
